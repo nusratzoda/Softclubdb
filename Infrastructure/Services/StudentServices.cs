@@ -1,10 +1,10 @@
 using Dapper;
 using Domain;
 using Domain.DataContext;
-
+using Infrastructure.Services;
 namespace Infrastructure;
 
-public class StudentServices
+public class StudentServices : IStudentServices
 {
     private DataContext _context;
 
@@ -61,7 +61,7 @@ public class StudentServices
     {
         using var connection = _context.CreateConnection();
         {
-            string sql = $"UPDATE Student SET FirstName = '{student.FirstName}', LastName = '{student.LastName}',Email = '{student.Email}',Phone = '{student.Phone}',Adress = '{student.Adress}',City = '{student.City}'  WHERE Id = {student.Id}; ";
+            string sql = ($"UPDATE Student SET FirstName = '{student.FirstName}', LastName = '{student.LastName}',Email = '{student.Email}',Phone = '{student.Phone}',Adress = '{student.Adress}',City = '{student.City}'  WHERE Id = {student.Id}; ");
             try
             {
                 var response = await connection.ExecuteAsync(sql);

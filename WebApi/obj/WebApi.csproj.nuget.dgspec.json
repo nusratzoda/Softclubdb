@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сухайб\\Desktop\\Student Home work\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj": {
+    "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Сухайб\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сухайб\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Сухайб\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сухайб\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj"
+              "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\Сухайб\\Desktop\\Student Home work\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Сухайб\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сухайб\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -150,11 +150,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj"
+              "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

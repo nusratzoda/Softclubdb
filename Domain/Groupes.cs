@@ -1,6 +1,6 @@
 namespace Domain;
 
-public class Group
+public class Groupes
 {
     public int Id { get; set; }
     public string? GroupName { get; set; }

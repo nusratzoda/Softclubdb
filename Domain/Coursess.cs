@@ -1,6 +1,6 @@
 namespace Domain;
 
-public class Courses
+public class Coursess
 {
     public int Id { get; set; }
     public string? CourseName { get; set; }

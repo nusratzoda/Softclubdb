@@ -5,10 +5,10 @@ using Microsoft.AspNetCore.Mvc;
 namespace WebApi.Controllers;
 [ApiController]
 [Route("[controller]")]
-public class MentorControler
+public class MentorControler : ControllerBase
 {
-    private MentorServices _mentorService;
-    public MentorControler(MentorServices mentorService)
+    private IMentorServices _mentorService;
+    public MentorControler(IMentorServices mentorService)
     {
         _mentorService = mentorService;
     }

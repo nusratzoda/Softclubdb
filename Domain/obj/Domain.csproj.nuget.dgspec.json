@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj": {
+    "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Сухайб\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сухайб\\Desktop\\Student Home work\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Сухайб\\Desktop\\C#\\Student Home work\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сухайб\\AppData\\Roaming\\NuGet\\NuGet.Config"

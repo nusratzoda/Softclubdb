@@ -1,14 +1,14 @@
 using Domain;
-using Infrastructure;
+using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers;
 [ApiController]
 [Route("[controller]")]
-public class StudentControler
+public class StudentControler : ControllerBase
 {
-    private StudentServices _studentService;
-    public StudentControler(StudentServices studentService)
+    private IStudentServices _studentService;
+    public StudentControler(IStudentServices studentService)
     {
         _studentService = studentService;
     }
